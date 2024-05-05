@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter,Node.js**
 
-- 💬 Ask me about **Dart, Flutter**
+- 💬 Ask me about **Dart, Flutter,Node.js**
 
-- 📫 How to reach me **gyawalibikash321@gmail.com**
+- 📫 How to reach me**gyawalibikash321@gmail.com**
 
 - ⚡ Fun fact **I think I am a good learner and I am funny to😁**
 
