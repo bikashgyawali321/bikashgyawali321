@@ -11,7 +11,7 @@
 
 - 📫 How to reach me**gyawalibikash321@gmail.com**
 
-- ⚡ Fun fact **I think I am a good learner and I am funny to😁**
+- ⚡ Fun fact **I think I am a good learner and I am funny too😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
