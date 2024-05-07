@@ -25,5 +25,5 @@
    
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashgyawali321&" alt="bikashgyawali321" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashgyawali321)](https://github.com/bikashgyawali321?tab=repositories)
+
 
