@@ -79,8 +79,13 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashgyawali321" alt="bikashgyawali321" /></p>
-
-<br clear="both" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashgyawali321&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashgyawali321" alt="bikashgyawali321" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashgyawali321&layout=compact" alt="bikashgyawali321" />
+    </td>
+  </tr>
+</table>
