@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gyawalibikash321@gmail.com**
 
-- ⚡ Fun fact **I think I am a good learner and I am funny too😁**
+- ⚡ Fun fact **I believe every problem has a solution, and if not, it's just an unresolved feature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,6 +71,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/prisma/prisma-media/main/logo.svg" alt="prisma" width="40" height="40"/>
+</a>
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
